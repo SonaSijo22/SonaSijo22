@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SonaSijo22
+- 👋 Hi, I’m @SonaSijo
 - 👀 I’m interested in 
       > web development
       > python developer
