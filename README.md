@@ -2,7 +2,8 @@
 - 👀 I’m interested in 
       > web development
       > python developer
-- 🌱 I’m currently learning Python Django Full Stack Web Development
+      > python django developer
+- 🌱 I completed my internship in  Python Django Full Stack Web Development
 - 📫 How to reach me
   www.linkedin.com/in/ sona-sijo
 
